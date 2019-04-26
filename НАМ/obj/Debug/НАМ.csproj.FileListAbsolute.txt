@@ -1,0 +1,13 @@
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\bin\Debug\НАМ.exe.config
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\bin\Debug\НАМ.exe
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\bin\Debug\НАМ.pdb
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.csprojResolveAssemblyReference.cache
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.Properties.Resources.resources
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.csproj.GenerateResource.Cache
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.exe
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.pdb
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.Main.resources
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\НАМ\НАМ\obj\Debug\НАМ.CreateAlp.resources
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\Группа_10_НАМ\НАМ\bin\Debug\НАМ.exe.config
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\Группа_10_НАМ\НАМ\obj\Debug\НАМ.exe
+C:\Users\Galina\Documents\1 курс\Теоритические основы информатики\Машина Тьюринга и Алгоритм Маркова\Группа_10_НАМ\НАМ\obj\Debug\НАМ.pdb
